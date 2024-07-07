@@ -3,38 +3,25 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `Sou um grande entusiasta do universo da tecnologia e inovação, focado em resolver problemas através do desenvolvimento de aplicações web. Quero sempre aprimorar meus conhecimentos para oferecer as melhores soluções para o mercado.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `Iniciei minha vida profissional no Movimento Empresa Júnior na Elementus Consultoria no DEQ, e foi aí que me encantei com o mundo dos negócios, comecei como consultor comercial e depois de mais ou menos um ano e meio saí como gerente comercial finalizando meu ciclo. Foram muitos aprendizados e costumo dizer que a empresa júnior foi minha faculdade de engenharia na UFPE. Migrei completamente o rumo da minha carreira para o mundo da tecnologia e inovação, que sou completamente apaixonado! Hoje estudo Sistemas para Internet na Universidade Católica de Pernambuco e estou trabalhando no Porto Digital, uma empresa na qual venho aprendendo bastante e pude imergir no mundo tech. Estou sempre buscando aprender sobre tecnologias e ferramentas para resolver problemas e unir esses conhecimentos ao meu dia a dia para me tornar um profissional mais completo e adaptável.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
-  },
-  {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "2022 - Até o momento",
+    role: "Analista de Inovação",
+    company: "Porto Digital",
+    description: `Atuo em projetos de inovação aberta e matchmaking como o  Desenvolve.ai 2.0 e Doca Hub no qual pude apoiar na captação, execução e coordenação de ciclos de inovação com mais de 20 indústrias como a Mondelez, M Dias Branco, Alpla e Alpek . Assim, conectando-as com o ecossistema de inovação, como startups, empresas de TI, universidades e instituições de ciência e tecnologia.
+    Além disso, pude entender as necessidades dos clientes e fornecer soluções personalizadas, estabelecendo relacionamentos próximos, identificando oportunidades, coletando feedbacks e implementando melhorias em nossos produtos em colaboração com a equipe.`,
+    technologies: [],
   },
   {
     year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    role: "Gerente Comercial",
+    company: "Elementus Jr Consultoria",
+    description: `Fui responsável por gerir e treinar uma equipe de 3 consultores de vendas, além de acompanhar o cliente em todo o funil de vendas, entendendo a necessidade , elaborando uma proposta de projeto personalizada em colaboração com a equipe de projetos e stakeholders,  e negociando o fechamento do contrato.  Atuei também na prospecção ativa de clientes, acompanhando e dando o suporte aos gerentes comerciais no fechamento da venda. Como resultado, consegui trazer o maior projeto da história da Elementus, representando quase um terço da meta do ano de 2021`,
+    technologies: [],
   },
 ];
 
@@ -70,7 +57,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Recife, Pernambuco ",
+  phoneNo: "+55 81 98712 6435",
+  email: "rod.mir@outlook.com",
 };
